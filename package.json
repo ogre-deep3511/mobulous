@@ -4,7 +4,8 @@
   "description": "Mobulous Technologies Pvt Ltd assesment",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "author": "Deepak Kumar Oraon",
   "license": "ISC",
